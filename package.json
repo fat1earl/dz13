@@ -1,0 +1,26 @@
+{
+  "name": "13-lesson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "metrics": "^0.1.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fat1earl/dz13.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fat1earl/dz13/issues"
+  },
+  "homepage": "https://github.com/fat1earl/dz13#readme",
+  "description": ""
+}
